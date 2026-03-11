@@ -1,0 +1,10 @@
+main:
+
+  - title: Learning Optimal Multimodal Information Bottleneck Representations
+    authors: Qilong Wu, Yiyang Shao, Jun Wang, Xiaobo Sun
+    conference_short: ICML
+    conference:  International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2505.19996.pdf
+    code: https://github.com/YiyShao/OMIB
+    image: ./assets/img/OMIB.png
+    notes: Accept
