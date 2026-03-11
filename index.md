@@ -31,7 +31,7 @@ Generally, I am interested in the intersection of Corporate Finance, Environment
 - **Political Economy of Corporate Finance** (Policy Shocks, Government-Firm Relations, Institutional Interventions)
 - **Corporate Financial Policies** (Entrepreneurship, Asset Pricing, IPO)
 
-I am also actively studying **Carbon Neutrality System Science and Governance**, where climate policies and environmental regulations can be viewed as systemic shocks reshaping traditional economic models.
+I am also actively studying **Carbon Neutrality System Science and Governance**, focusing on how the transition toward carbon neutrality reshapes firms’ policy environments. In the context of the dual-carbon targets, climate policies and environmental regulations introduce new institutional constraints and incentives that influence corporate finance decisions and asset pricing.
 
 **If you are interested in utilizing Agent-Based Models (ABMs) to simulate financial markets and developing related computational workflows, please feel free to reach out for discussion or potential collaborations.**
 
