@@ -16,7 +16,7 @@ main:
     notes: "Draft"
 
   - title: "The nepotism and promotion in politics"
-    authors: "[Juncheng Jiang](https://junchengjiang1118.github.io/), <strong>Yiyang Shao</strong>" 
+    authors: '<a href="https://junchengjiang1118.github.io/">Juncheng Jiang</a>, <strong>Yiyang Shao</strong>'
     conference: "Proposal in process"
     notes: "Draft"
     
