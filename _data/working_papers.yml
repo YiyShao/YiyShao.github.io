@@ -24,7 +24,7 @@ main:
     notes: "Draft"
     
   - title: "	The Impact of News Media Sentiment on Financial Markets"
-    authors: "strong>Yiyang Shao</strong>"
+    authors: "<strong>Yiyang Shao</strong>"
     conference: "Working Paper"
     pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5404535"
     notes: "Draft"
