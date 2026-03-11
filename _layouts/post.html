@@ -186,20 +186,7 @@
         </a>
 
         <article>
-          <header class="post-header">
-            <h1 class="post-title">{{ page.title }}</h1>
-            <div class="post-meta">
-              <i class="far fa-calendar-alt"></i> {{ page.date | date: "%B %d, %Y" }}
-              {% if page.categories %}
-              <span style="margin-left: 15px;">
-                <i class="far fa-folder"></i>
-                {% for category in page.categories %}
-                  {{ category }}{% if forloop.last == false %}, {% endif %}
-                {% endfor %}
-              </span>
-              {% endif %}
-            </div>
-          </header>
+
 
           <div class="post-content">
             {{ content }}
@@ -239,4 +226,5 @@
     {% endif %}
   </body>
 </html>
+
 
