@@ -41,7 +41,7 @@
       <a href="{{ site.url | default: "/" | relative_url }}" class="site-title">{{ site.title }}</a>
       <div class="nav-links" id="navLinks">
         <a href="{{ site.url | default: "/" | relative_url }}" {% if page.url == "/" or page.url == "/index.html" %}class="active"{% endif %}>Home</a>
-        <a href="{{ "/working-papers/" | relative_url %}" {% if page.url contains "working-papers" %}class="active"{% endif %}>Working Papers</a>
+        <a href="{{ "/working-papers/" | relative_url }}" {% if page.url contains "working-papers" %}class="active"{% endif %}>Working Papers</a>
         <a href="{{ "/blog/" | relative_url }}" {% if page.url contains "blog" %}class="active"{% endif %}>Blogs</a>
       </div>
       <button class="menu-toggle" onclick="toggleMenu()">
@@ -140,4 +140,5 @@
     {% endif %}
   </body>
 </html>
+
 
