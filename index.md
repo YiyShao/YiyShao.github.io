@@ -20,7 +20,7 @@ Currently, I am working on several fascinating research projects with [Prof.Yong
       <span style="font-weight: 500;"><a href="https://www.pku.edu.cn/">Peking University</a></span>
       <span style="text-align: right;">2026.09 - 2031.06 (<em>exp.</em>)</span>
     </div>
-    <em>B.A. in Finance</em>
+    <em>Ph.D. in Economics</em>
   </li>
 </ul>
 
@@ -30,7 +30,7 @@ Currently, I am working on several fascinating research projects with [Prof.Yong
       <span style="font-weight: 500;"><a href="https://www.zuel.edu.cn/">Zhongnan University of Economics and Law</a></span>
       <span style="text-align: right;">2022.09 - 2026.06</span>
     </div>
-    <em>Ph.D. in Economics</em>
+    <em>B.A. in Finance</em>
   </li>
 </ul>
 
